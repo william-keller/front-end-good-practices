@@ -10,6 +10,8 @@ Pode falar, vai. Testar é bem chatinho, né? Mas essa ideia de que quem testa c
 
 {% embed url="https://www.4devs.com.br/gerador\_de\_pessoas" caption="Agora que você colocou um código para garantir se os documentos são válidos você não consegue mais digitar qualquer coisa no teclado, né? Ainda bem! Significa que você está validando direito ✅ Mas você pode usar esse gerador de pessoas aí pra facilitar mais a sua vida. " %}
 
+{% embed url="https://4devs.net.br/" caption="Com este site voce pode validar os dados que você colocou um código para garantir se os documentos são válidos você não consegue mais digitar qualquer coisa no teclado" %}
+
 {% embed url="https://www.mockapi.io" caption="Esta ferramenta permite que você construa APIs para teste com dados personalizados de acordo com a sua necessidade!" %}
 
   
